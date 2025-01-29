@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shen Boheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral of geoscience"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bhshen@nigpas.ac.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=PbpsfFQAAAAJ&hl=zh-CN"
