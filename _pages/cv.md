@@ -39,15 +39,24 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*   **Shen Boheng**, Hou Zhangshuai, Wang Xiangdong, Wu Qiong, Zhang Hua, Chen Jitao, Yuan Dongxun, Hu Bin, Sun Beilei, Shen Shuzhong*. (2024) Quantitative palaeogeographical reconstruction of the North China Block during the Carboniferous and Permian transition: Implications of coal accumulation and source rock development [J]. Palaeogeography, Palaeoclimatology, Palaeoecology, 640, 112102. (DOI: 10.1016/j.palaeo.2024.112102)
+*   **Shen Boheng**, Shen Shuzhong*, Wu Qiong, Zhang Shuichang, Zhang Bin, Wang Xiangdong, Hou Zhangshuai, Yuan Dongxun, Zhang Yichun, Liu Feng, Liu Jun, Zhang Hua, Shi Yukun, Wang Jun, Feng Zhuo. (2022) Carboniferous and Permian integrative stratigraphy and timescale of North China Block [J]. Science China Earth Sciences, 65(6): 983-1011. (DOI: 10.1007/s11430-021-9909-9)
+*   **Shen Boheng**, Shen Shuzhong*, Wu Qiong, Zhang Shuichang, Zhang Bin, Wang Xiangdong, Hou Zhangshuai, Yuan Dongxun, Zhang Yichun, Liu Feng, Liu Jun, Zhang Hua, Shi Yukun, Wang Jun, Feng Zhuo. (2022) Carboniferous and Permian integrative stratigraphy and timescale of North China Block [J]. Science China Earth Sciences, 52(7): 1181-1212 (in Chinese). (DOI: 10.1360/SSTe-2021-0312)
+*   **Shen Boheng**, Shen Shuzhong*, Hou Zhangshuai, Wu Qiong, Zhang Shuichang, Zhang Bin, Zhang Yichun, Yuan Dongxun. (2021) Permian lithostratigraphic subdivision and correlation of China [J]. Journal of Stratigraphy, 45(03): 319-339 (in Chinese with English abstract). (DOI: 10.19839/j.cnki.dcxzz.2021.0027)  
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 05/2023       Outstanding Communist Youth League Member of Nanjing University
+* 11/2022       Outstanding Graduate of Nanjing University
+* 11/2022       The First-class Excellent Graduate Scholarship of Nanjing University
+* 11/2021       Zheng Gang Elite Scholarship of Nanjing University
+* 11/2020       The First-class Prize Scholarship of Nanjing University
+* 11/2019       The Third-class Prize Scholarship of Nanjing University
+* 11/2018 	    The First-class Prize Scholarship of Nanjing University
+* 11/2017 	    The First-class Prize Scholarship of China University of Petroleum (East China)
+* 11/2016       The First-class Prize Scholarship of China University of Petroleum (East China)
+* 11/2015 	    The Tarim Oil company Scholarship of China University of Petroleum (East China)
+
   
 
   
