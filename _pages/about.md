@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic personal websites of Dr Boheng Shen"
+title: "Academic personal websites of Dr Shen"
 author_profile: true
 redirect_from: 
   - /about/
