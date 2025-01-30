@@ -11,7 +11,7 @@ redirect_from:
 
 **Education**
 ======
-* Ph.D in Geology, Nanjing University, 09/2020–09/2024
+* Ph.D in Geology, Nanjing University, 09/2018–09/2024
   * Thesis: High-resolution dynamic quantitative palaeogeographic reconstruction of the NCB during the Carboniferous and Permian eras
   * Supervisor: Prof. Shuzhong Shen
 * B.S. in Resources Exploration Engineering, China University of Petroleum (East China), 09/2014–08/2018
