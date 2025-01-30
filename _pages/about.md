@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-During my PhD, my research interests primarily focus on the Carboniferous-Permian stratigraphic correlation, provenance analysis, and high-precision palaeogeographic reconstruction of the North China Block (NCB). Currently, my research interests are centered on the establishment of the Permian strata scale and high-precision palaeogeographic reconstruction of the Sichuan Basin.
+During my PhD, my research interests primarily focus on the Carboniferous-Permian stratigraphic correlation, provenance analysis, and high-precision palaeogeographic reconstruction of the North China Block (NCB). Currently, my research interests are centered on the establishment of the Permian strata scale and high-precision palaeogeographic reconstruction of the Tethys and Palaeo Asian Ocean realms.
 
 I am proficient in the research methods of stratigraphy, sedimentology, and palaeogeography. Additionally, I am experienced in in the use of geographical information system software platforms such as ArcGIS and GPlates, as well as the method of the detrital zircon U-Pb dating.
 
