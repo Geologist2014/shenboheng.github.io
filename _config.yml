@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Shen Boheng.png"
   name             : "Shen Boheng"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral of geoscience"
+  bio              : "Postdoctoral of Earth Science"
   location         : "39 East Beijing Road, Nanjing, Jiangsu 210008, P.R. China"
   employer         : "Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences"
   uri              : # URL
