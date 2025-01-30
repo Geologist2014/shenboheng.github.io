@@ -31,11 +31,11 @@ author:
   email            : "bhshen@nigpas.ac.cn" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PbpsfFQAAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-0839-3518"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57203898458"
   semantic         : "https://www.semanticscholar.org/author/Boheng-Shen/114097392"
   researchgate     : "https://www.researchgate.net/profile/Shen-Bo-Heng?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57203898458"
+  googlescholar    : "https://scholar.google.com/citations?user=PbpsfFQAAAAJ&hl=zh-CN"
   
 
   # Repositories and software development
