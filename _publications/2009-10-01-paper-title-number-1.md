@@ -1,5 +1,5 @@
 ---
-title: "Quantitative palaeogeographical reconstruction of the North China Block during the Carboniferous and Permian transition: Implications of coal accumulation and source rock development "
+Title: "Quantitative palaeogeographical reconstruction of the North China Block during the Carboniferous and Permian transition: Implications of coal accumulation and source rock development "
 Journal: 'Palaeogeography, Palaeoclimatology, Palaeoecology'
 DOI: https://doi.org/10.1016/j.palaeo.2024.112102
 
