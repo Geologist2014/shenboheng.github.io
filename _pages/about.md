@@ -14,6 +14,6 @@ I am proficient in the research methods of stratigraphy, sedimentology, and pala
 
 I consistently keep abreast of the latest developments in Earth sciences, particularly in solid Earth sciences. During my PhD, I organize volunteers to track articles from high-level academic journals such as _Nature_, _Science_, and _Geology_, and compile them into relevant digests. As of 2025, this activity has been ongoing for over four years and has gained considerable recognition within both the academic community and the general public in China as well as the international Chinese community.
 
-You can find my CV here: [Shen Boheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Shen Boheng's Curriculum Vitae](https://github.com/Geologist2014/shenboheng.github.io/blob/master/assets/NIGPAS%20Boheng%20Shen%20CV.pdf).
 
 [Email](bhshen@nigpas.ac.cn) / [Github](https://github.com/Geologist2014/shenboheng.github.io)
