@@ -12,7 +12,7 @@ During my PhD, my research interests primarily focus on the Carboniferous-Permia
 
 I am proficient in the research methods of stratigraphy, sedimentology, and palaeogeography. Additionally, I am experienced in in the use of geographical information system software platforms such as ArcGIS and GPlates, as well as the method of the detrital zircon U-Pb dating.
 
-I consistently keep abreast of the latest developments in Earth sciences, particularly in solid Earth sciences. During my PhD, I organize volunteers to track articles from high-level academic journals such as Nature, Science, and Geology, and compile them into relevant digests. As of 2025, this activity has been ongoing for over four years and has gained considerable recognition within both the academic community and the general public in China as well as the international Chinese community.
+I consistently keep abreast of the latest developments in Earth sciences, particularly in solid Earth sciences. During my PhD, I organize volunteers to track articles from high-level academic journals such as _Nature_, _Science_, and _Geology_, and compile them into relevant digests. As of 2025, this activity has been ongoing for over four years and has gained considerable recognition within both the academic community and the general public in China as well as the international Chinese community.
 
 You can find my CV here: [Shen Boheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
