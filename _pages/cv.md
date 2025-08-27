@@ -46,16 +46,17 @@ redirect_from:
   
 **Awards and Honors**
 ======
-* 05/2023       Outstanding Communist Youth League Member of Nanjing University
-* 11/2022       Outstanding Graduate of Nanjing University
-* 11/2022       The First-class Excellent Graduate Scholarship of Nanjing University
-* 11/2021       Zheng Gang Elite Scholarship of Nanjing University
-* 11/2020       The First-class Prize Scholarship of Nanjing University
-* 11/2019       The Third-class Prize Scholarship of Nanjing University
-* 11/2018 	    The First-class Prize Scholarship of Nanjing University
-* 11/2017 	    The First-class Prize Scholarship of China University of Petroleum (East China)
-* 11/2016       The First-class Prize Scholarship of China University of Petroleum (East China)
-* 11/2015 	    The Tarim Oil company Scholarship of China University of Petroleum (East China)
+* 08/2025       The 2025 Jiangsu Provincial Excellent Postdoctoral Program (江苏省卓越博士后计划)
+* 05/2023       Outstanding Communist Youth League Member of Nanjing University (南京大学共青团员标兵)
+* 11/2022       Outstanding Graduate of Nanjing University (南京大学优秀研究生)
+* 11/2022       The First-class Excellent Graduate Scholarship of Nanjing University (南京大学研究生英才一等奖学金)
+* 11/2021       Zheng Gang Elite Scholarship of Nanjing University (南京大学郑钢菁英奖学金)
+* 11/2020       The First-class Prize Scholarship of Nanjing University (南京大学一等学业奖学金)
+* 11/2019       The Third-class Prize Scholarship of Nanjing University (南京大学三等学业奖学金)
+* 11/2018 	    The First-class Prize Scholarship of Nanjing University (南京大学一等学业奖学金)
+* 11/2017 	    The Second-class Prize Scholarship of China University of Petroleum (East China) (中国石油大学(华东)二等奖学金)
+* 11/2016       The First-class Prize Scholarship of China University of Petroleum (East China) (中国石油大学(华东)一等奖学金)
+* 11/2015 	    The Tarim Oil company Scholarship of China University of Petroleum (East China) (中国石油大学(华东)塔里木油田奖学金)
 
   
 
