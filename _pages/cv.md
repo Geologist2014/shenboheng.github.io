@@ -46,7 +46,7 @@ redirect_from:
   
 **Awards and Honors**
 ======
-* 08/2025       The Jiangsu Funding Program·for·ExcellentPostdoctoralTalent (2025ZB564) (江苏省卓越博士后计划)
+* 08/2025       The Jiangsu Funding Program for Excellent Postdoctoral Talent (2025ZB564) (江苏省卓越博士后计划)
 * 05/2023       Outstanding Communist Youth League Member of Nanjing University (南京大学共青团员标兵)
 * 11/2022       Outstanding Graduate of Nanjing University (南京大学优秀研究生)
 * 11/2022       The First-class Excellent Graduate Scholarship of Nanjing University (南京大学研究生英才一等奖学金)
