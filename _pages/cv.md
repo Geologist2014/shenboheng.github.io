@@ -37,6 +37,10 @@ redirect_from:
   * Extensive experiences in fundamental programming
 * **Languages**: Chinese, English, Japanese, Deutsch
 
+**Grants & Funding**
+======
+*   Principal Investigator (PI), High-Resolution Quantitative Paleogeographic Reconstruction of the Lopingian (Late Permian) in the Sichuan Basin: Implications for Global Sea-Level Changes, Young Scientists Fund (Category C), National Natural Science Foundation of China (NSFC), Grant No. 42602138, Jan. 2027–Dec. 2029.
+
 **Publications**
 ======
 *   **Shen Boheng**, Zhang Hua*, Yuan Dongxun, Zheng Quanfeng. (2026) Permian stratigraphic framework in the Sichuan Basin, China: Temporal constraints on eustatic controls of hydrocarbon source rock and coal distribution [J]. Journal of Asian Earth Sciences, 331, 107263. [DOI: 10.1016/j.jseaes.2026.107263]
