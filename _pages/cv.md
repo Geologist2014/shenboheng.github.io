@@ -18,13 +18,16 @@ redirect_from:
   * Thesis: Strata correlation of the Ziniquanzi Formation on the southern margin of the Junggar Basin
   * Supervisor: Dr. Jinglin Yang
 
-
 **Work experience**
 ======
 * 09/2024 to now: Postdoctoral researcher
   * Nanjing Institute of Geology and Palaeontology of the Chinese Academy of Sciences
   * Duties includes:  High-resolution dynamic quantitative palaeogeographic reconstruction of the Tethys and Palaeo Asian Ocean realms during the Permian era
   * Supervisor: Prof. Hua Zhang
+
+**Grants & Funding**
+======
+*   Principal Investigator (PI), High-Resolution Quantitative Paleogeographic Reconstruction of the Lopingian (Late Permian) in the Sichuan Basin: Implications for Global Sea-Level Changes, Young Scientists Fund (Category C), National Natural Science Foundation of China (NSFC), Grant No. 42602138, Jan. 2027–Dec. 2029.
 
 **Skills**
 ======
@@ -37,9 +40,6 @@ redirect_from:
   * Extensive experiences in fundamental programming
 * **Languages**: Chinese, English, Japanese, Deutsch
 
-**Grants & Funding**
-======
-*   Principal Investigator (PI), High-Resolution Quantitative Paleogeographic Reconstruction of the Lopingian (Late Permian) in the Sichuan Basin: Implications for Global Sea-Level Changes, Young Scientists Fund (Category C), National Natural Science Foundation of China (NSFC), Grant No. 42602138, Jan. 2027–Dec. 2029.
 
 **Publications**
 ======
